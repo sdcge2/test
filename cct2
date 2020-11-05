@@ -1,0 +1,4 @@
+git clone https://github.com/ethereum/remix-ide.git
+cd remix-ide
+npm install
+npm run build && npm run serve
